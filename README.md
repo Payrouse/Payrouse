@@ -1,6 +1,6 @@
 ### Hi there, I'm Leonardo Bone 👋
 
-## I'm a Sofware Student!
+## I'm a Sofware Engineer!
 - 🌱 I’m currently learning everything 🚀
 - 🌎 I’m from Ecuador
 
