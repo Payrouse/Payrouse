@@ -18,7 +18,7 @@
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
 
-[<img align="left" alt="Flutter" width="26px" src="https://logo-timeline.fandom.com/wiki/Flutter?file=4B4A9751-D2BF-4A93-BDCC-CDCA5326B65F.png" />][website]
+[<img align="left" alt="Flutter" width="26px" src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*ObJbOfJnx4QIPUq9.png" />][website]
 
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
 
