@@ -51,9 +51,7 @@
 <table align="center"><tr><td align="center" width="9999">
 
  ## TOP
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Payrouse&layout=compact&count_private=true" />
-</a>
+
 
 ##### v.1.1.1
 
