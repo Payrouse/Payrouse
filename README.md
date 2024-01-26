@@ -1,6 +1,6 @@
 ### Hi there, I'm Leonardo Bone 👋
 
-## I'm a Sofware Engineer!
+## Soy un ingeniero de software apasionado por el mundo de la tecnología y con un interés en la electrónica. Actualmente, formo parte del equipo de Vigitrack Latam S.A., donde desempeño diversas funciones clave. Mi experiencia abarca desde la creación y consumo de servicios web hasta el desarrollo de interfaces de usuario tanto para aplicaciones móviles como para entornos web. Además, me dedico al mantenimiento de bases de datos. Estoy comprometido con la excelencia en cada proyecto y siempre en búsqueda de oportunidades para crecer y aportar innovación en el campo del desarrollo de software.
 - 🌱 I’m currently learning everything 🚀
 - 🌎 I’m from Ecuador
 
