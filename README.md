@@ -64,7 +64,7 @@ Soy un ingeniero de software apasionado por el mundo de la tecnología y con un 
 
 [website]: https://darkpixl.com
 [instagram]: https://instagram.com/leonardo_bone_c
-[twitter]: https://twitter.com/Bone_Cusme
+[twiter]: https://twitter.com/Bone_Cusme
 [linkedin]: https://linkedin.com/in/leonardo-bone-85344117a
 [webdevplaylist]: https://www.youtube.com/playlist?
 [jsplaylist]: https://www.youtube.com/playlist?
