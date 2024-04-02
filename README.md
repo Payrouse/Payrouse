@@ -54,9 +54,17 @@ Soy un ingeniero de software apasionado por el mundo de la tecnología y con un 
 <table align="center"><tr><td align="center" width="9999">
 
  ## TOP
+ ##### v.1.1.1
+### Some statistics
+
+<p>
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=pepval&theme=dark&hide_border=true&count_private=true" width = 400>
+</p>
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Payrousel&layout=compact&count_private=true" width = 400/>
+</p>
 
 
-##### v.1.1.1
 
 </td></tr></table>
 
