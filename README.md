@@ -61,7 +61,7 @@ Soy un ingeniero de software apasionado por el mundo de la tecnología y con un 
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=pepval&theme=dark&hide_border=true&count_private=true" width = 400>
 </p>
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Payrousel&layout=compact&count_private=true" width = 400/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Payrouse&layout=compact&count_private=true" width = 400/>
 </p>
 
 
